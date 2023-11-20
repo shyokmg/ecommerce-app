@@ -6,8 +6,9 @@ This is an E-commerce back-end application for an Internet Retail company that u
 
 
 ## Link to video demo
-You can find the Demo of the application below
-The demo shows the how the application works using the REST API calls of GET, POST, PUT and DELETE
+You can find the Demo of the application below.
+
+The demo shows how the application works using the REST API calls of GET, POST, PUT and DELETE
 [![A video thumbnail shows ecommerce application](./assets/ecommerce_app.png)](https://drive.google.com/file/d/1B3lE-HNwgbwUl9-o1xo_1Yo8Ok6B9l-q/view?usp=sharing)
 
 ## Credits
